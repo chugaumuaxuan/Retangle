@@ -3,7 +3,7 @@ package Retangle;
 public class Retangle {
 	float length;
 	float width;
-	
+
 	Retangle(){}
 	
 	Retangle(float length, float width){
@@ -14,7 +14,8 @@ public class Retangle {
 	public float getLength() {
 		return length;
 	}
-
+	
+	
 	public void setLength(float length) {
 		this.length = length;
 	}
